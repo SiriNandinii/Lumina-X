@@ -122,7 +122,7 @@ Current sports talent evaluation methods are subjective and inconsistent.
 
 bash
 # Clone the repository
-git clone https://github.com/Varshinireddy-5/LuminaX.git
+git clone https://github.com/SiriNandinii/LuminaX.git
 
 # Navigate into the project
 cd LuminaX
@@ -161,9 +161,7 @@ npm start
 
 ## 🌐 Project Resources
 
-- 🎥 **Prototype Video:** [YouTube](https://youtu.be/s3lGsF4w0uU)  
-- 🌎 **Website:** [luminax-seven.vercel.app](https://luminax-seven.vercel.app/)  
-- 🗺 **Architecture Diagram:** [Drive Link](https://drive.google.com/file/d/1aE29StyvCnY4v7sJXj-WLkt2NMGku_Yk/view)  
+- 🎥 **Prototype Video:** [YouTube](https://youtu.be/s3lGsF4w0uU)   
 
 **Documentation:**
 - [MediaPipe](https://developers.google.com/mediapipe)
